@@ -14,7 +14,7 @@
   color: white;
   font-size: 2rem;
   margin-top: 15px;
-  margin-left: 175px;
+  margin-left: 150px;
 }
 
 .nav-links {
@@ -26,6 +26,7 @@ li {
   display: inline;
   margin-left: 20px;
   margin-right: 50px;
+  display: inline;
 }
 
 a {

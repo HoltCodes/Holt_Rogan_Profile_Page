@@ -7,14 +7,14 @@
 .nav {
   background: black;
   display: flex;
+  align-items: center;
   justify-content: space-between;
 }
 
 .nav-title {
   color: white;
   font-size: 2rem;
-  margin-top: 15px;
-  margin-left: 150px;
+  margin-left: 200px;
 }
 
 .nav-links {
@@ -51,7 +51,7 @@ a {
   }
 
 .flex-container {
-  width: 1000px;
+  width: 500px;
   margin: 20px auto;
   display: flex;
   justify-content: space-between;
